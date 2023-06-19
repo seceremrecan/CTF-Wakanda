@@ -1,2 +1,6 @@
 # CTF-Wakanda
-This report has been prepared to present the security test results of Vulnerable Machine Wakanda on Vulnhub This report presents the tests performed on the Vulnerable Machine Wakanda and detailed analysis of the vulnerabilities discovered.
+
+-> Makineyi çözmeye ilk olarak netdiscover kullanarak ip sini bularak başlıyoruz
+
+![Ekran Alıntısı1](https://github.com/seceremrecan/CTF-Wakanda/assets/103491438/2c616087-97f7-4416-a2ca-22140a411d8d)
+
